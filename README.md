@@ -24,10 +24,10 @@ The sales are declining for the company AtliQ Hardware. The Sales Director is me
 Data Cleaning, Analysis and Visualization
 
 ## Glimpse of the Dashboard 🎥
-![screenshot]([(https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture.JPG)](https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture2.JPG?raw=true))
+![screenshot](https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture.JPG)
 
 
-![screenshot]([(https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture.JPG](https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture2.JPG))
+![screenshot](https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture2.JPG)
 
 Results
 
