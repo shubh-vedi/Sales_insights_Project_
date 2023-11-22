@@ -1,5 +1,31 @@
 ## Sales Insights Data Analysis Project
 
+### Project Overview
+
+Data for the project was provided by codebasics.
+
+#Language/Platform/Libraries
+MySQL Workbench
+PowerBI 
+
+## Project Outline
+
+##Problem Statement
+
+Data Analysis Using MySQL
+Data Cleaning in PowerBi
+Build PowerBi Dashboard
+Dashboard Improvement 
+
+### Project Description
+
+The sales are declining for the company AtliQ Hardware. The Sales Director is meeting up the regional managers to figure out what the issue is. The Regional Managers are not being direct with the status of their sales and provid the sales director with multiple excel sheets of sales data. The Sales Director has assigned the task to use the excel sheets provided by the Regional Managers to create an interatice dashboard in Tableau with the year to date revenue, top customers and weakest regions. The stakeholders are the Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team and IT.
+
+Data Cleaning, Analysis and Visualization
+
+Results
+what are the two weakest regions what are my top 5 customers and sales quantity revenue breakdown by cities revenue breakdown by years and moths (year to date revenue) top 5 products by revenue number
+
 ### Instructions to setup mysql on your local computer
 
 1. Follow step in this video to install mysql on your local computer
