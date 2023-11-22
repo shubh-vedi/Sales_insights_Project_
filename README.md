@@ -23,6 +23,12 @@ The sales are declining for the company AtliQ Hardware. The Sales Director is me
 
 Data Cleaning, Analysis and Visualization
 
+## Glimpse of the Dashboard 🎥
+![screenshot]([https://user-images.githubusercontent.com/69301816/191995726-4b33521e-ccf9-4cdb-86d1-3c5e805bd370.gif](https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture.JPG))
+
+
+![screenshot]([[https://user-images.githubusercontent.com/69301816/191995726-4b33521e-ccf9-4cdb-86d1-3c5e805bd370.gif](https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture.JPG](https://github.com/shubh-vedi/Sales_insights_Project_/blob/main/Capture2.JPG)))
+
 Results
 
 what are the two weakest regions what are my top 5 customers and sales quantity revenue breakdown by cities revenue breakdown by years and moths (year to date revenue) top 5 products by revenue number
